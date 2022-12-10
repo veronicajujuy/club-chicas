@@ -168,7 +168,7 @@ p{
     display: flex;
     flex-direction: column;
     width: 80%;
-    height: 300px;
+    height: 370px;
     background-color: #fff;
     color:rgb(66, 66, 66);
     justify-content:space-evenly;
@@ -235,7 +235,7 @@ i{
     padding: 20px;
 }
 
-@media (min-width:900px) {
+@media (min-width:990px) {
     .item-hidden {
         display:contents;
     }
